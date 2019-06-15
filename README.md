@@ -20,9 +20,12 @@ Now the output is vectors.txt, and vocab.txt
 ## Using the output to find distance
 We can now run two python scripts included in the GloVe project, for finding:
 1. distance
-	- Usage: `python c:/glove/results/distance.py`
+	- Usage: `python distance.py`
 2. word-analogy
-	- Usage: `python c:/glove/results/distance.py`
+	- Usage: `python word-analogy.py`
+
+- See the src file for more info.
+- `vocab.txt` and `vectors.txt` should be located in the same folders as the .py scripts
 
 # Data Visualisation
 To take the output to the next level, we decided to visualizes it, as a high-dimensional vector spaces
