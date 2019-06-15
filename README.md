@@ -1,6 +1,8 @@
 # GloVe-3D
 Project to show GloVe output in a visual way
 
+[Demo](http://braude.info/3d)
+
 ## Train Model
 
 We used [GloVe](https://github.com/stanfordnlp/GloVe) with the following models:
@@ -36,7 +38,7 @@ so we used this [repository](https://github.com/anvaka/word2vec-graph) to build 
 we used node [express.js](https://expressjs.com/) library to run a local server.
 then we uploaded the graph data to a `public` folder, later we will point our UI Web application to use this data.
 
-# Running the UI
+## Running the UI
 we modified the `config.js` file of the pm project, and pointed the data to our own server.
 then after few modification, the ui is ready to use and run our own custom graphs.
 

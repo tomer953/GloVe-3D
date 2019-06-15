@@ -1,0 +1,24 @@
+Enter word or sentence (EXIT to break): Stark
+Word: Stark  Position in vocabulary: 203
+
+                               Word       Cosine distance
+
+---------------------------------------------------------
+
+                               Robb             0.844399
+
+                             Eddard             0.838999
+
+                            Catelyn             0.773490
+
+                         Winterfell             0.761430
+
+                                Ned             0.760311
+
+                              Arryn             0.727762
+
+                              Theon             0.726812
+
+                              Renly             0.709233
+
+                               Lady             0.702142

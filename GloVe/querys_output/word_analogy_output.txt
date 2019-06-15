@@ -1,0 +1,28 @@
+Enter three words (EXIT to break): Sansa Arya Jon
+Word: Sansa  Position in vocabulary: 183
+Word: Arya  Position in vocabulary: 154
+Word: Jon  Position in vocabulary: 70
+
+                               Word       Cosine distance
+
+---------------------------------------------------------
+
+                                Sam             0.818860
+
+                               Snow             0.789396
+
+                              Theon             0.785715
+
+                             Tyrion             0.774373
+
+                               Bran             0.759286
+
+                            thought             0.695648
+
+                              Bronn             0.676384
+
+                                saw             0.661842
+
+                              Hodor             0.653983
+
+                                 He             0.649742
